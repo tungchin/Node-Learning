@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "0.0.1",
+  "description": "Learning Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungchin/Node-Learning.git"
+  },
+  "author": "tungchin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungchin/Node-Learning/issues"
+  },
+  "homepage": "https://github.com/tungchin/Node-Learning#readme"
+}
